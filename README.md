@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 This is a simple website ptoject to see how to use Git and Github together
+adding a line here 
 
 ## Introduction
 
